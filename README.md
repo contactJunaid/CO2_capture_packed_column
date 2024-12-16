@@ -1,4 +1,4 @@
 Packed Column Efficiency Simulation for CO₂ Absorption
 
 Documentation link:
-https://peridot-jingle-467.notion.site/14e9e997c6a780ca9c8de2f8f168dfc1?v=15d9e997c6a7809b8f0f000c74c41ef9
+https://www.notion.so/15e9e997c6a7808f857bfd55df4ba67b?v=15e9e997c6a78183a431000c2a40fb83&pvs=4
